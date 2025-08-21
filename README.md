@@ -10,13 +10,15 @@ Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño
 
 # MIEMBROS
 
+Aldana Porras Leonela Angela
+
 Ancco Quispe Juan Carlos.
 
 Lombardi Quispe Joseph Manuel.
 
 Milla Fasabi Gael Valentino.
 
----
+Turpo Cayo Ruth Carina
 
 # ODS 6: Agua limpia y saneamiento  
 
