@@ -8,6 +8,14 @@ Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño
 
 ---
 
+# MIEMBROS
+
+Ancco Quispe Juan Carlos
+Lombardi Quispe Joseph Manuel
+Milla Fasabi Gael Valentino
+
+---
+
 # ODS 6: Agua limpia y saneamiento  
 
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/e6dfc561-307a-44df-825c-c87b76351bd1" />
