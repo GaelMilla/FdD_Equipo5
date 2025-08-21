@@ -3,7 +3,7 @@ FUNDAMENTOS DE DISEÑO
 Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño
 ODS 6: Agua limpia y saneamiento.
 
-<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/e6dfc561-307a-44df-825c-c87b76351bd1" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/e6dfc561-307a-44df-825c-c87b76351bd1" />
 
 Nuestro principal Objetivo de Desarrollo Sostenible (ODS) es el número 6: Agua limpia y saneamiento. Nos enfocamos en este ODS porque creemos firmemente en la importancia de garantizar el acceso universal a agua segura y a un saneamiento adecuado.
 
