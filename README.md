@@ -11,7 +11,9 @@ Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño
 # MIEMBROS
 
 Ancco Quispe Juan Carlos.
+
 Lombardi Quispe Joseph Manuel.
+
 Milla Fasabi Gael Valentino.
 
 ---
