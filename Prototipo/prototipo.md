@@ -1,4 +1,4 @@
-#Prototipo
+# Prototipo
 
 En la presente carptea se encuentran los archivos necesarios para poder replicar el proyecto
 
