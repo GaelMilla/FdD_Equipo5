@@ -14,8 +14,6 @@ Nos interesa trabajar en el siguiente **Objetivo de Desarollo Sostenible(ODS):**
 
 <p align="center">
   <img width="1536" height="1024" alt="aaaa1" src="/Recursos/Imágenes/ods3 imagen.png" />
-
-  <em>Figura 1. Fotografía del equipo 05</em>
 </p>
 ---
 
