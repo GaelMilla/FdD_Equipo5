@@ -1,4 +1,4 @@
-# Equipo 01 - Fundamentos de Diseño 2025-2  
+# Equipo 05 - Fundamentos de Diseño 2025-2  
 ### Carrera de Ingeniería Ambiental e Informática
 **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
 
