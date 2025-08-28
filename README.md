@@ -12,8 +12,11 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 Nos interesa trabajar en el siguiente **Objetivo de Desarollo Sostenible(ODS):**
 **ODS  6: Agua limpia y saneamiento**
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/e6dfc561-307a-44df-825c-c87b76351bd1" />
+<p align="center">
+  <img width="1536" height="1024" alt="aaaa1" src="/Recursos/Imágenes/ods3 imagen.png" />
 
+  <em>Figura 1. Fotografía del equipo 05</em>
+</p>
 ---
 
 ## MIEMBROS DEL EQUIPO
