@@ -9,17 +9,18 @@ Somos el **Equipo 05** del curso **Fundamentos de Diseño 2025-2**, conformado p
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 ---
-Nos interesa trabajar en el siguiente **Objetivo de Desarollo Sostenible(ODS):**
+Nos interesa trabajar en los siguientes **Objetivos de Desarollo Sostenible(ODS):**
+
+**ODS  3: Salud y bienestar**
+
+<p align="center">
+  <img width="384" height="256" alt="aaaa1" src="/Recursos/Imágenes/ods3 imagen.png" />
+</p>
 
 **ODS  6: Agua limpia y saneamiento**
 
 <p align="center">
-  <img width="1536" height="1024" alt="aaaa1" src="/Recursos/Imágenes/ods3 imagen.png" />
-</p>
-
-
-<p align="center">
-  <img width="1536" height="1024" alt="aaaa1" src="/Recursos/Imágenes/ods 6.jpg" />
+  <img width="384" height="256" alt="aaaa1" src="/Recursos/Imágenes/ods 6.jpg" />
 </p>
 
 ## MIEMBROS DEL EQUIPO
