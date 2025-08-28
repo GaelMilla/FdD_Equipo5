@@ -59,14 +59,10 @@ Turpo Cayo Ruth Carina
 
 ## INTRODUCCIÓN  
 
-Nuestro principal **Objetivo de Desarrollo Sostenible (ODS)** es el número 6: **Agua limpia y saneamiento**.  
-Nos enfocamos en este ODS porque creemos firmemente en la importancia de garantizar el acceso universal a agua segura y a un saneamiento adecuado.  
+Nuestro principal ODS es el numero 3:**Salud y Bienestar** .  
+La contaminación del agua potable por microorganismos patógenos como Escherichia coli y coliformes representa un grave riesgo para la salud pública. En la cuenca del río Coata (Puno), diversos estudios han demostrado la presencia de estos contaminantes en niveles que superan los límites permitidos, poniendo en riesgo a las comunidades que consumen esta agua. Por ello, es necesario contar con herramientas que permitan detectar de forma rápida y precisa estos microorganismos para prevenir enfermedades.
 
-El agua es un recurso esencial para la vida, la salud y el bienestar de las personas. Sin embargo, muchas comunidades aún enfrentan problemas por la falta de monitoreo y tratamiento adecuado, lo que incrementa el riesgo de enfermedades de origen hídrico.  
-
-Reconocemos que la protección y el manejo responsable del agua son fundamentales para mejorar la calidad de vida y asegurar un futuro más sostenible.  
-
-Nuestro proyecto **AquaLite** busca contribuir a este objetivo mediante la implementación de un sistema accesible de **monitoreo con sensores IoT**, capaz de detectar riesgos en la calidad del agua y generar alertas tempranas.
+Este proyecto propone el desarrollo de un dispositivo IoT que permita monitorear en tiempo real la calidad microbiológica del agua potable, facilitando la toma de decisiones para su tratamiento y asegurando el cumplimiento de los estándares sanitarios.
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
