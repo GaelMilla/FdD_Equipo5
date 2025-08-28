@@ -66,9 +66,11 @@ Turpo Cayo Ruth Carina
 ## INTRODUCCIÓN  
 
 ### **ODS 3**: Salud y Bienestar
+
 **Objetivo general**: Garantizar una vida sana y promover el bienestar para todos en todas las edades.
 sub objetivo.3:
 "Para 2030, poner fin a las epidemias del sida, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles."
+
 ### ODS 6: Agua Limpia y Saneamiento
 
 Objetivo general: Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.
@@ -81,6 +83,8 @@ Nuestro proyecto propone el desarrollo de un dispositivo IoT que permita monitor
 
 ### Justificacion:
 En la cuenca del río Coata (Puno), diversos estudios han demostrado la presencia de contaminación del agua potable con microorganismos patógenos Escherichia coli y coliformes representa un grave riesgo para la salud pública estos contaminantes en niveles que superan los límites permitidos, poniendo en riesgo a las comunidades que consumen esta agua. Por ello, es necesario contar con herramientas que permitan detectar de forma rápida y precisa estos microorganismos para prevenir enfermedades.
+
+---
 
 ### Referencias
 Referencias
