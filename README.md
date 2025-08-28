@@ -48,7 +48,7 @@ Turpo Cayo Ruth Carina
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Leonela Ángela Aldana Porras** | Cordinadora General y de investigacion | Liderazgo, innovación social, sostenibilidad | leonela.aldana@upch.pe|
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Juan Carlos Ancco Quispe** | Cordinador de Electrónica y Hardware | Robótica, electrónica aplicada, sensores ambientales |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Joseph Manuel Lombardi Quispe** | Coordinador de programación y plataforma IoT | Programación en Python y C++, análisis de datos ambientales |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Ruth Carina Turpo Cayo** | Coordinadora de Diseño y prototipado | Diseño de prototipos, creatividad aplicada, innovación tecnológica, impresión 3D |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Ruth Carina Turpo Cayo** | Coordinadora de Diseño y prototipado | Diseño de prototipos, creatividad aplicada, innovación tecnológica, impresión 3D || ruth.turpo@upch.pe|
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gael Valentino Milla Fasabi** | Coordinador de Comunicación y Redacción Técnica | Programación, análisis de datos, simulación |
 
 ---
