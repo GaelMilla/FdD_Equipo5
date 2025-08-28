@@ -14,13 +14,13 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarollo Sostenible(ODS)
 **ODS  3: Salud y bienestar**
 
 <p align="center">
-  <img width="384" height="300" alt="aaaa1" src="/Recursos/Imágenes/ods3 imagen.png" />
+  <img width="384" height="315" alt="aaaa1" src="/Recursos/Imágenes/ods3 imagen.png" />
 </p>
 
 **ODS  6: Agua limpia y saneamiento**
 
 <p align="center">
-  <img width="384" height="300" alt="aaaa1" src="/Recursos/Imágenes/ods 6.jpg" />
+  <img width="384" height="315" alt="aaaa1" src="/Recursos/Imágenes/ods 6.jpg" />
 </p>
 
 ## MIEMBROS DEL EQUIPO
@@ -83,6 +83,7 @@ Nuestro proyecto propone el desarrollo de un dispositivo IoT que permita monitor
 En la cuenca del río Coata (Puno), diversos estudios han demostrado la presencia de contaminación del agua potable con microorganismos patógenos Escherichia coli y coliformes representa un grave riesgo para la salud pública estos contaminantes en niveles que superan los límites permitidos, poniendo en riesgo a las comunidades que consumen esta agua. Por ello, es necesario contar con herramientas que permitan detectar de forma rápida y precisa estos microorganismos para prevenir enfermedades.
 
 ### Referencias
+Referencias
 Autoridad Nacional del Agua. (2015). Monitoreo en cuenca del río Coata. Autoridad Nacional del Agua. https://hdl.handle.net/20.500.12788/1651
 Muqui. (2021). La contaminación ambiental de la cuenca del río Coata y los desafíos de la mesa de diálogo en Puno. https://muqui.org/la-contaminacion-ambiental-de-la-cuenca-del-rio-coata-y-los-desafios-de-la-mesa-de-dialogo-en-puno/
 Derechos Humanos y Medio Ambiente Puno. (2023). Sentencia ordena detener la contaminación del río Coata en Puno. https://www.derechoshumanospuno.org.pe/news/32
