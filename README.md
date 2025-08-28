@@ -87,7 +87,7 @@ En la cuenca del río Coata (Puno), diversos estudios han demostrado la presenci
 
 ---
 
-### Referencias
+### Referencias:
 
 Autoridad Nacional del Agua. (2015). Monitoreo en cuenca del río Coata. Autoridad Nacional del Agua. https://hdl.handle.net/20.500.12788/1651
 
