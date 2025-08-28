@@ -34,7 +34,7 @@ Turpo Cayo Ruth Carina
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-  <img width="1536" height="1024" alt="aaaa1" src="https://github.com/user-attachments/assets/48eadf0a-f46f-4aa0-bfd9-491a33616fda" />
+  <img width="1536" height="1024" alt="aaaa1" src="/Recursos/Imágenes/grupo 5.jpg" />
 
   <em>Figura 1. Fotografía del equipo 05</em>
 </p>
