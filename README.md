@@ -14,13 +14,13 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarollo Sostenible(ODS)
 **ODS  3: Salud y bienestar**
 
 <p align="center">
-  <img width="384" height="256" alt="aaaa1" src="/Recursos/Imágenes/ods3 imagen.png" />
+  <img width="384" height="300" alt="aaaa1" src="/Recursos/Imágenes/ods3 imagen.png" />
 </p>
 
 **ODS  6: Agua limpia y saneamiento**
 
 <p align="center">
-  <img width="384" height="256" alt="aaaa1" src="/Recursos/Imágenes/ods 6.jpg" />
+  <img width="384" height="300" alt="aaaa1" src="/Recursos/Imágenes/ods 6.jpg" />
 </p>
 
 ## MIEMBROS DEL EQUIPO
