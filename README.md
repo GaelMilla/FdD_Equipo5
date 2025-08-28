@@ -43,7 +43,6 @@ Turpo Cayo Ruth Carina
 <p align="center">
   <img width="1536" height="1024" alt="aaaa1" src="/Recursos/Imágenes/grupo 5.jpg" />
 
-  <em>Figura 1. Fotografía del equipo 05</em>
 </p>
 
 ---
