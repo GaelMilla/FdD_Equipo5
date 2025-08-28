@@ -61,8 +61,6 @@ Turpo Cayo Ruth Carina
 ---
 
 
----
-
 ## INTRODUCCIÓN  
 
 ### **ODS 3**: Salud y Bienestar
