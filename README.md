@@ -74,7 +74,7 @@ Sub objetivo 3:
 
 ### ODS 6: Agua Limpia y Saneamiento
 
-Objetivo general: Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.
+**Objetivo general**: Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.
 
 Sub objetivo 1:
 "Para 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos."
@@ -88,7 +88,7 @@ En la cuenca del río Coata (Puno), diversos estudios han demostrado la presenci
 ---
 
 ### Referencias
-Referencias
+
 Autoridad Nacional del Agua. (2015). Monitoreo en cuenca del río Coata. Autoridad Nacional del Agua. https://hdl.handle.net/20.500.12788/1651
 
 Muqui. (2021). La contaminación ambiental de la cuenca del río Coata y los desafíos de la mesa de diálogo en Puno. https://muqui.org/la-contaminacion-ambiental-de-la-cuenca-del-rio-coata-y-los-desafios-de-la-mesa-de-dialogo-en-puno/
