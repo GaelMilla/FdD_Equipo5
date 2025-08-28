@@ -54,7 +54,7 @@ Turpo Cayo Ruth Carina
 |------|--------|-----|-----------|--------------------|
 | <img src="/Recursos/Imágenes/aldana.jpg" width="90"/> | **Leonela Ángela Aldana Porras** | Cordinadora General y de investigacion | Liderazgo, innovación social, sostenibilidad | leonela.aldana@upch.pe|
 | <img src="/Recursos/Imágenes/j ancco.jpg" width="90"/> | **Juan Carlos Ancco Quispe** | Cordinador de Electrónica y Hardware | Robótica, electrónica aplicada, sensores ambientales | juan.ancco@upch.pe
-| <img src="/Recursos/Imágenes/lombardi.jpg" width="90"/> | **Joseph Manuel Lombardi Quispe** | Coordinador de programación y plataforma IoT | Programación en Python y C++, análisis de datos ambientales | joseph.lonardi@upch.pe
+| <img src="/Recursos/Imágenes/lombardi.jpg" width="90"/> | **Joseph Manuel Lombardi Quispe** | Coordinador de programación y plataforma IoT | Programación en Python y C++, análisis de datos ambientales | joseph.lombardi@upch.pe
 | <img src="/Recursos/Imágenes/turpo.jpg" width="90"/> | **Ruth Carina Turpo Cayo** | Coordinadora de Diseño y prototipado | Diseño de prototipos, creatividad aplicada, innovación tecnológica, impresión 3D | ruth.turpo@upch.pe
 | <img src="/Recursos/Imágenes/milla.jpg" width="90"/> | **Gael Valentino Milla Fasabi** | Coordinador de Comunicación y Redacción Técnica | Programación, análisis de datos, simulación | gael.milla@upch.pe
 
@@ -68,14 +68,15 @@ Turpo Cayo Ruth Carina
 ### **ODS 3**: Salud y Bienestar
 
 **Objetivo general**: Garantizar una vida sana y promover el bienestar para todos en todas las edades.
-sub objetivo.3:
+
+Sub objetivo 3:
 "Para 2030, poner fin a las epidemias del sida, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles."
 
 ### ODS 6: Agua Limpia y Saneamiento
 
 Objetivo general: Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.
 
-Meta 6.1:
+Sub objetivo 1:
 "Para 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos."
 
 ### Proyecto tentativo:
