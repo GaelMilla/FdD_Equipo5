@@ -63,8 +63,7 @@ Turpo Cayo Ruth Carina
 ---
 
 ## INTRODUCCIÓN  
-
-Nuestro principal ODS es el numero 3:**Salud y Bienestar** .  
+ 
 La contaminación del agua potable por microorganismos patógenos como Escherichia coli y coliformes representa un grave riesgo para la salud pública. En la cuenca del río Coata (Puno), diversos estudios han demostrado la presencia de estos contaminantes en niveles que superan los límites permitidos, poniendo en riesgo a las comunidades que consumen esta agua. Por ello, es necesario contar con herramientas que permitan detectar de forma rápida y precisa estos microorganismos para prevenir enfermedades.
 
 Este proyecto propone el desarrollo de un dispositivo IoT que permita monitorear en tiempo real la calidad microbiológica del agua potable, facilitando la toma de decisiones para su tratamiento y asegurando el cumplimiento de los estándares sanitarios.
