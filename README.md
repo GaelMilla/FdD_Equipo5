@@ -34,8 +34,9 @@ Turpo Cayo Ruth Carina
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-  <img src="/Recursos/Imágenes/equipo.png" alt="Foto grupal del equipo" width="500"/><br>
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <img width="1536" height="1024" alt="aaaa1" src="https://github.com/user-attachments/assets/48eadf0a-f46f-4aa0-bfd9-491a33616fda" />
+
+  <em>Figura 1. Fotografía del equipo 05</em>
 </p>
 
 ---
@@ -44,11 +45,11 @@ Turpo Cayo Ruth Carina
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Leonela A ngela Aldana Porras** | Cordinador General y de ivestigacion | Innovación social, 
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Cordinador de Electronica y Hardware | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Leonela Ángela Aldana Porras** | Cordinadora General y de investigacion | Innovación social 
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Juan Carlos Ancco Quispe** | Cordinador de Electrónica y Hardware | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Joseph Manuel Lombardi Quispe** | Coordinador de programación y plataforma IoT | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Ruth Carina Turpo Cayo** | Coordinadora de Diseo y prototipado | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gael Valentino Milla Fasabi** | Coordinador de Comunicación y Redacción Técnica | Programación, análisis de datos, simulación |
 
 ---
 
