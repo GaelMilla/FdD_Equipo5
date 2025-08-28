@@ -5,11 +5,12 @@
 ---
 
 ## 🌍 Descripción del Equipo  
-Somos el **Equipo 01** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental e Informática.  
+Somos el **Equipo 05** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental e Informática.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 ---
 Nos interesa trabajar en el siguiente **Objetivo de Desarollo Sostenible(ODS):**
+
 **ODS  6: Agua limpia y saneamiento**
 
 <p align="center">
@@ -73,9 +74,11 @@ Objetivo general: Garantizar la disponibilidad de agua y su gestión sostenible 
 
 Meta 6.1:
 "Para 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos."
-### proyecto tentativo
+
+### Proyecto tentativo:
 Nuestro proyecto propone el desarrollo de un dispositivo IoT que permita monitorear en tiempo real la calidad microbiológica del agua potable en la cuenca del río Costa (Puno), facilitando la toma de decisiones para su tratamiento y asegurando el cumplimiento de los estándares sanitarios.
-### justificacion 
+
+### Justificacion:
 En la cuenca del río Coata (Puno), diversos estudios han demostrado la presencia de contaminación del agua potable con microorganismos patógenos Escherichia coli y coliformes representa un grave riesgo para la salud pública estos contaminantes en niveles que superan los límites permitidos, poniendo en riesgo a las comunidades que consumen esta agua. Por ello, es necesario contar con herramientas que permitan detectar de forma rápida y precisa estos microorganismos para prevenir enfermedades.
 
 ### Referencias
