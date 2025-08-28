@@ -48,7 +48,7 @@ Turpo Cayo Ruth Carina
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Leonela Ángela Aldana Porras** | Cordinadora General y de investigacion | Innovación social 
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Juan Carlos Ancco Quispe** | Cordinador de Electrónica y Hardware | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Joseph Manuel Lombardi Quispe** | Coordinador de programación y plataforma IoT | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Ruth Carina Turpo Cayo** | Coordinadora de Diseo y prototipado | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Ruth Carina Turpo Cayo** | Coordinadora de Diseño y prototipado | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Gael Valentino Milla Fasabi** | Coordinador de Comunicación y Redacción Técnica | Programación, análisis de datos, simulación |
 
 ---
