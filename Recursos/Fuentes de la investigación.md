@@ -1,6 +1,6 @@
 # **FUENTES DE INFORMACIÓN DEL PROYECTO**
-
 - # Rathi (2024) \[…\] destacó la importancia de ubicar estratégicamente sensores de presión y de calidad del agua para abordar los problemas de pérdidas, garantizar suficiente cantidad y resolver los problemas de calidad del agua o identificar las localizaciones de contaminantes en sistemas de distribución (https://www.zotero.org/google-docs/?kpBLX7).
+
 
   Justificación: Ubicar estratégicamente sensores de calidad del agua es clave para detectar de forma temprana posibles focos de contaminación en fuentes de agua. Al medir parámetros específicos en tiempo real, se pueden identificar cambios anómalos que alerten sobre la presencia de contaminantes, facilitando una respuesta rápida y localizada.
 
