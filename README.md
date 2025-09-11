@@ -77,10 +77,22 @@ Sub objetivo 1:
 "Para 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos."
 
 ### Proyecto tentativo:
-(Nuestro proyecto propone el desarrollo de un dispositivo IoT que permita monitorear en tiempo real la calidad microbiológica del agua potable en la cuenca del río Costa (Puno), facilitando la toma de decisiones para su tratamiento y asegurando el cumplimiento de los estándares sanitarios.)
+Título: Detector colorimétrico IoT de metales pesados en tiempo real para el río Coata (Puno)
+
+Resumen: Desarrollaremos un dispositivo colorimétrico con sensor óptico TCS34725 y ESP32 que analiza muestras de agua del río Coata mediante ciclos automáticos (toma de muestra → dosificación de reactivos → reacción → lectura óptica → envío de datos → enjuague). Los datos se envían en tiempo real a una aplicación móvil/web (Blynk/ThingSpeak/Firebase) para visualización, almacenamiento y alertas cuando se superen umbrales de referencia (ECA/OMS).
+
+Metales objetivo (fase curso): Plomo (Pb) y Arsénico (As) mediante kits colorimétricos.
 
 ### Justificacion:
-(En la cuenca del río Coata (Puno), diversos estudios han demostrado la presencia de contaminación del agua potable con microorganismos patógenos Escherichia coli y coliformes representa un grave riesgo para la salud pública estos contaminantes en niveles que superan los límites permitidos, poniendo en riesgo a las comunidades que consumen esta agua. Por ello, es necesario contar con herramientas que permitan detectar de forma rápida y precisa estos microorganismos para prevenir enfermedades.)
+La cuenca del río Coata (Puno) registra reportes sostenidos de contaminación por metales pesados (principalmente plomo y arsénico), con efectos severos sobre la salud (neurotoxicidad, daño renal, mayor riesgo en niñas/niños y gestantes) y sobre los ecosistemas acuáticos. El monitoreo tradicional depende de campañas puntuales de muestreo y análisis de laboratorio: es costoso, espaciado en el tiempo y hace invisible la variabilidad diaria de la calidad del agua.
+
+Frente a ello, proponemos un dispositivo colorimétrico IoT de bajo costo que realiza ciclos automáticos de toma de muestra, reacción y lectura óptica, enviando los resultados en tiempo real a una aplicación móvil/web. Esta solución:
+
+Alinea ODS 3 (Salud y Bienestar): reduce la exposición de la población a sustancias químicas peligrosas mediante alertas tempranas cuando los valores superen umbrales de referencia (ECA/OMS).
+
+Alinea ODS 6 (Agua limpia y saneamiento): mejora la vigilancia de la calidad del agua y apoya la gestión sostenible del recurso hídrico con datos continuos y trazables.
+
+
 
 ---
 
