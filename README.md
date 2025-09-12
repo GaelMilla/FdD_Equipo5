@@ -60,7 +60,12 @@ Turpo Cayo Ruth Carina
 ---
 
 
-## INTRODUCCIÓN  
+## INTRODUCCIÓN A LA PROBLEMÁTICA
+
+El acceso a agua potable de calidad constituye un derecho fundamental y un requisito esencial para la salud pública. Sin embargo, en diversos contextos, la contaminación por metales pesados representa una amenaza creciente para la seguridad hídrica y el bienestar de las poblaciones. Elementos como el plomo, el mercurio, el arsénico y el cadmio, aun en concentraciones bajas, son altamente tóxicos y tienden a bioacumularse en los organismos vivos, generando efectos adversos a nivel neurológico, renal, inmunológico y reproductivo (World Health Organization [WHO], 2022).
+En el Perú, la problemática se intensifica debido a la cercanía de las fuentes de agua a actividades extractivas como la minería, que liberan efluentes ácidos y residuos con metales pesados a los ríos y lagunas. Casos como los reportados en Junín —con la contaminación del río Chacote y otros afluentes— ponen en evidencia la vulnerabilidad de las comunidades que dependen directamente de estos recursos hídricos para su consumo diario (Ministerio del Ambiente, 2020). La Organización Mundial de la Salud recomienda que el agua potable esté libre de metales pesados por encima de los valores máximos permisibles, estableciendo límites estrictos: por ejemplo, 0.01 mg/L para el plomo y 0.006 mg/L para el mercurio, debido a su elevada toxicidad incluso en niveles mínimos.
+Frente a esta situación, surge la necesidad de desarrollar soluciones tecnológicas accesibles y confiables que permitan **detectar de manera temprana la presencia de metales pesados en aguas destinadas al consumo humano.** La creación de dispositivos portátiles de detección no solo facilita el monitoreo en tiempo real, sino que también representa un aporte significativo a la prevención de riesgos en salud, la gestión ambiental y la garantía del derecho a un agua segura.
+Estoa problemática está vinculada al ODS 3: Salud y bienestar, y al ODS 6: Agua limpia y saneamiento.
 
 ### **ODS 3**: Salud y Bienestar
 
@@ -93,22 +98,19 @@ Alinea ODS 3 (Salud y Bienestar): reduce la exposición de la población a susta
 Alinea ODS 6 (Agua limpia y saneamiento): mejora la vigilancia de la calidad del agua y apoya la gestión sostenible del recurso hídrico con datos continuos y trazables.
 
 
-
 ---
 
 ### Referencias:
 
-(Autoridad Nacional del Agua. (2015). Monitoreo en cuenca del río Coata. Autoridad Nacional del Agua. https://hdl.handle.net/20.500.12788/1651
+Ministerio del Ambiente. (2020). Informe nacional de la calidad del agua superficial en el Perú. Lima: MINAM. Recuperado de https://www.gob.pe/minam
+
+World Health Organization. (2022). Guidelines for drinking-water quality: Fourth edition incorporating the first and second addenda. Geneva: WHO. https://www.who.int/publications/i/item/9789240045064
 
 Muqui. (2021). La contaminación ambiental de la cuenca del río Coata y los desafíos de la mesa de diálogo en Puno. https://muqui.org/la-contaminacion-ambiental-de-la-cuenca-del-rio-coata-y-los-desafios-de-la-mesa-de-dialogo-en-puno/
-
-Derechos Humanos y Medio Ambiente Puno. (2023). Sentencia ordena detener la contaminación del río Coata en Puno. https://www.derechoshumanospuno.org.pe/news/32
-
-Vallejo-Cárdenas, J., & Pérez-Llanos, A. (2022). Variación de la calidad del agua del río Coata según el ICA-Perú por fuentes contaminantes. ResearchGate. https://www.researchgate.net/publication/363378287_Variacion_de_la_calidad_del_agua_del_rio_Coata_segun_el_Ica-Peru_por_fuentes_contaminantes
 
 Organismo de Evaluación y Fiscalización Ambiental (OEFA). (2021). Informe técnico sobre contaminantes frecuentes en la cuenca del río Coata. https://repositorio.oefa.gob.pe/items/66a28285-1f97-4c5a-a98b-05fafa1010ea
 
 Vallejo-Cárdenas, J., & Pérez-Llanos, A. (2022). Variación de la calidad del agua del río Coata según el ICA-Perú por fuentes contaminantes. Revista de la Facultad de Ciencias de la Salud, Universidad Nacional Federico Villarreal, 19(2), 103-112. https://revistas.unfv.edu.pe/RCV/article/view/1189)
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+Este README resume quiénes somos, qué nos motiva a cumplir nuestro objetivo y en qué ODS queremos enfocar nuestro trabajo durante el desarrollo del curso.
