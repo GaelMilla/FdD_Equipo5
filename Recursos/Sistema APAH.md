@@ -88,7 +88,7 @@ A continuación se detallan los sensores utilizados y su relevancia:
 ## Parámetros y fórmulas
 ![Tabla de parámetros y fórmulas](img/tabla.png)
 
-![Fórmulas WQI](Recursos/Imágenes/APAH imagenes/formula1.jpg)
+![Fórmulas WQI](Recursos/Imágenes/APAH/formula1.jpg)
 
 ---
 
