@@ -19,7 +19,10 @@ O traducido al español:
 ---
 
 ## ¿Qué es el sistema APAH?
-El sistema **APAH** es un sistema autónomo basado en **IoT** para la monitorización en tiempo real de aguas residuales industriales.  
+
+![Gráfico resumen](Imágenes/APAH/ResumenGraficoAPAH.jpg)
+
+El sistema **APAH** es un sistema autónomo basado en **IoT** para la monitorización en tiempo real de aguas residuales industriales (1).  
 Integra múltiples sensores (pH, oxígeno disuelto, conductividad eléctrica, sólidos disueltos totales, turbidez y temperatura) y utiliza una arquitectura en capas (sensado, procesamiento y aplicación).  
 Incluye una app móvil (APAH) desarrollada en **Android Studio**, conectada a **Firebase**, y emplea analítica predictiva con *machine learning* para mejorar la gestión.  
 
@@ -86,14 +89,13 @@ A continuación se detallan los sensores utilizados y su relevancia:
 ---
 
 ## Parámetros y fórmulas
-![Tabla de parámetros y fórmulas](img/tabla.png)
+![Tabla de parámetros y fórmulas](Imágenes/APAH/formula.jpg)
 
-![Fórmulas WQI](Recursos/Imágenes/APAH/formula1.jpg)
+![Fórmulas WQI](Imágenes/APAH/formula.jpg)
 
 ---
 
 ## Ejemplo de funcionamiento del sistema APAH
-![Flujo de funcionamiento](img/flujo.png)
 
 1. El **sensor detecta anomalía** (ej. pH fuera de rango).  
 2. El **ESP8266 procesa la señal** y la compara con límites definidos.  
