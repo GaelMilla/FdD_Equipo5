@@ -72,7 +72,7 @@ Estoa problemática está vinculada al ODS 3: Salud y bienestar, y al ODS 6: Agu
 **Objetivo general**: Garantizar una vida sana y promover el bienestar para todos en todas las edades.
 
 Sub objetivo 3:
-"Para 2030, poner fin a las epidemias del sida, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles."
+"Para 2030, implementar sistemas de monitoreo y alerta temprana para detectar metales pesados en el agua y prevenir riesgos en la salud de la población altoandina."
 
 ### ODS 6: Agua Limpia y Saneamiento
 
