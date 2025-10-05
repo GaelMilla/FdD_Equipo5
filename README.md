@@ -89,10 +89,9 @@ YAKUMET es un sistema diseñado para monitorear la calidad del agua mediante sen
 Metales objetivo (fase curso): Plomo (Pb) y Arsénico (As) mediante kits colorimétricos.
 
 ### Justificacion:
-LEscogimos el río Mantaro porque no podíamos mirar a otro lado mientras un recurso tan valioso sigue enfermándose. Es uno de los ríos más contaminados del país y, según estudios, contiene niveles de plomo y arsénico que superan por mucho los límites permitidos. Esta situación afecta directamente a las comunidades que dependen de él, provocando enfermedades, pérdida de cultivos y daños en los ecosistemas.
+Escogimos el río Mantaro porque no podíamos mirar a otro lado mientras un recurso tan valioso sigue enfermándose. Es uno de los ríos más contaminados del país y, según estudios, contiene niveles de plomo y arsénico que superan por mucho los límites permitidos. Esta situación afecta directamente a las comunidades que dependen de él, provocando enfermedades, pérdida de cultivos y daños en los ecosistemas.
 
-Con este proyecto queremos aportar una solución práctica: crear un sistema que ayude a vigilar el estado del agua midiendo su pH, conductividad, turbidez y temperatura. Así podremos detectar a tiempo los cambios que alerten sobre contaminación y ayudar a proteger la salud y la vida de quienes dependen del río Mantaro cada día.
-
+Con este proyecto buscamos crear un sistema que permita detectar la presencia de metales pesados en el agua del río Mantaro y alertar a los pobladores sobre su estado. La idea es ofrecer una herramienta que brinde información clara y rápida sobre la calidad del agua, para que las personas puedan tomar precauciones, evitar enfermedades y proteger su salud. De esta forma, queremos contribuir a que las comunidades estén más informadas y preparadas frente a la contaminación del río.
 ### Referencias:
 
 Ministerio del Ambiente. (2020). Informe nacional de la calidad del agua superficial en el Perú. Lima: MINAM. Recuperado de https://www.gob.pe/minam
