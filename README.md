@@ -62,10 +62,9 @@ Turpo Cayo Ruth Carina
 
 ## INTRODUCCIÓN A LA PROBLEMÁTICA
 
-El acceso a agua potable de calidad constituye un derecho fundamental y un requisito esencial para la salud pública. Sin embargo, en diversos contextos, la contaminación por metales pesados representa una amenaza creciente para la seguridad hídrica y el bienestar de las poblaciones. Elementos como el plomo, el mercurio, el arsénico y el cadmio, aun en concentraciones bajas, son altamente tóxicos y tienden a bioacumularse en los organismos vivos, generando efectos adversos a nivel neurológico, renal, inmunológico y reproductivo (World Health Organization [WHO], 2022).
-En el Perú, la problemática se intensifica debido a la cercanía de las fuentes de agua a actividades extractivas como la minería, que liberan efluentes ácidos y residuos con metales pesados a los ríos y lagunas. Casos como los reportados en Junín —con la contaminación del río Chacote y otros afluentes— ponen en evidencia la vulnerabilidad de las comunidades que dependen directamente de estos recursos hídricos para su consumo diario (Ministerio del Ambiente, 2020). La Organización Mundial de la Salud recomienda que el agua potable esté libre de metales pesados por encima de los valores máximos permisibles, estableciendo límites estrictos: por ejemplo, 0.01 mg/L para el plomo y 0.006 mg/L para el mercurio, debido a su elevada toxicidad incluso en niveles mínimos.
-Frente a esta situación, surge la necesidad de desarrollar soluciones tecnológicas accesibles y confiables que permitan **detectar de manera temprana la presencia de metales pesados en aguas destinadas al consumo humano.** La creación de dispositivos portátiles de detección no solo facilita el monitoreo en tiempo real, sino que también representa un aporte significativo a la prevención de riesgos en salud, la gestión ambiental y la garantía del derecho a un agua segura.
-Estoa problemática está vinculada al ODS 3: Salud y bienestar, y al ODS 6: Agua limpia y saneamiento.
+El río Mantaro es uno de los más importantes de la sierra central del Perú. De sus aguas viven miles de familias que lo usan para sembrar, criar animales y abastecerse. Pero hoy, ese mismo río que antes daba vida, se está volviendo un riesgo. En varios tramos se han encontrado metales pesados y desechos que contaminan el agua y dañan el ambiente.
+
+Frente a esta situación, nuestro proyecto propone desarrollar un dispositivo con sensores que mida parámetros como pH, conductividad, turbidez y temperatura, para ayudar a detectar a tiempo posibles señales de contaminación. De esta forma, buscamos que las comunidades y autoridades puedan actuar antes de que el daño sea mayor.
 
 ### **ODS 3**: Salud y Bienestar
 
@@ -90,16 +89,9 @@ YAKUMET es un sistema diseñado para monitorear la calidad del agua mediante sen
 Metales objetivo (fase curso): Plomo (Pb) y Arsénico (As) mediante kits colorimétricos.
 
 ### Justificacion:
-La cuenca del río Coata (Puno) registra reportes sostenidos de contaminación por metales pesados (principalmente plomo y arsénico), con efectos severos sobre la salud (neurotoxicidad, daño renal, mayor riesgo en niñas/niños y gestantes) y sobre los ecosistemas acuáticos. El monitoreo tradicional depende de campañas puntuales de muestreo y análisis de laboratorio: es costoso, espaciado en el tiempo y hace invisible la variabilidad diaria de la calidad del agua.
+LEscogimos el río Mantaro porque no podíamos mirar a otro lado mientras un recurso tan valioso sigue enfermándose. Es uno de los ríos más contaminados del país y, según estudios, contiene niveles de plomo y arsénico que superan por mucho los límites permitidos. Esta situación afecta directamente a las comunidades que dependen de él, provocando enfermedades, pérdida de cultivos y daños en los ecosistemas.
 
-Frente a ello, proponemos un dispositivo colorimétrico IoT de bajo costo que realiza ciclos automáticos de toma de muestra, reacción y lectura óptica, enviando los resultados en tiempo real a una aplicación móvil/web. Esta solución:
-
-Alinea ODS 3 (Salud y Bienestar): reduce la exposición de la población a sustancias químicas peligrosas mediante alertas tempranas cuando los valores superen umbrales de referencia (ECA/OMS).
-
-Alinea ODS 6 (Agua limpia y saneamiento): mejora la vigilancia de la calidad del agua y apoya la gestión sostenible del recurso hídrico con datos continuos y trazables.
-
-
----
+Con este proyecto queremos aportar una solución práctica: crear un sistema que ayude a vigilar el estado del agua midiendo su pH, conductividad, turbidez y temperatura. Así podremos detectar a tiempo los cambios que alerten sobre contaminación y ayudar a proteger la salud y la vida de quienes dependen del río Mantaro cada día.
 
 ### Referencias:
 
