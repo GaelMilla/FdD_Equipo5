@@ -82,9 +82,10 @@ Sub objetivo 1:
 "Para 2030, lograr el acceso universal y equitativo al agua potable a un precio asequible para todos."
 
 ### Proyecto tentativo:
-Título: Detector colorimétrico IoT de metales pesados en tiempo real para el río Coata (Puno)
+YAKUMET: Detector de metales pesados con sensores a través de parámetros pH, conductividad, turbidez y temperatura
 
-Resumen: Desarrollaremos un dispositivo colorimétrico con sensor óptico TCS34725 y ESP32 que analiza muestras de agua del río Coata mediante ciclos automáticos (toma de muestra → dosificación de reactivos → reacción → lectura óptica → envío de datos → enjuague). Los datos se envían en tiempo real a una aplicación móvil/web (Blynk/ThingSpeak/Firebase) para visualización, almacenamiento y alertas cuando se superen umbrales de referencia (ECA/OMS).
+Resumen:
+YAKUMET es un sistema diseñado para monitorear la calidad del agua mediante sensores de pH, conductividad, turbidez y temperatura, con el fin de detectar posibles indicios de metales pesados. El dispositivo recopila y envía los datos en tiempo real a una plataforma web o móvil para su visualización, almacenamiento y generación de alertas cuando los valores superen los límites establecidos por los estándares de calidad ambiental (ECA/OMS).
 
 Metales objetivo (fase curso): Plomo (Pb) y Arsénico (As) mediante kits colorimétricos.
 
