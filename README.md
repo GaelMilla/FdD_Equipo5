@@ -61,11 +61,11 @@ Turpo Cayo Ruth Carina
 
 
 ## INTRODUCCIÓN A LA PROBLEMÁTICA
+En el Perú, hasta la semana 29 del 2025, se identificaron 214 distritos con exposición a metales pesados, y los más afectados son los niños y las mujeres. Un ejemplo claro es el río Mantaro, donde se han encontrado altas concentraciones de arsénico, plomo y mercurio. Esto es una muestra de lo que sigue pasando hoy en día, ya que estos metales pueden causar daños graves en la salud, además de afectar a la flora y fauna, porque se mantienen en el ambiente y se acumulan en la cadena alimentaria.
 
-El río Mantaro es uno de los más importantes de la sierra central del Perú. De sus aguas viven miles de familias que lo usan para sembrar, criar animales y abastecerse. Pero hoy, ese mismo río que antes daba vida, se está volviendo un riesgo. En varios tramos se han encontrado metales pesados y desechos que contaminan el agua y dañan el ambiente.
+El río Mantaro es uno de los más importantes de la sierra central del Perú. Miles de familias dependen de él para sembrar, criar animales y abastecerse de agua. Pero ese mismo río que antes daba vida, ahora se ha convertido en un riesgo. En diferentes zonas se han encontrado metales pesados y desechos que están contaminando el agua y el ambiente, y como resultado, muchos pobladores han presentado enfermedades, especialmente problemas renales y otros males relacionados con la exposición a estos metales.
 
-Frente a esta situación, nuestro proyecto propone desarrollar un dispositivo con sensores que mida parámetros como pH, conductividad, turbidez y temperatura, para ayudar a detectar a tiempo posibles señales de contaminación. De esta forma, buscamos que las comunidades y autoridades puedan actuar antes de que el daño sea mayor.
-
+Ante esta situación, nuestro proyecto busca crear un dispositivo con sensores que ayude a detectar señales de contaminación en el agua del río. De esta manera, queremos que las comunidades y las autoridades puedan recibir alertas a tiempo y así prevenir daños mayores en la salud y en las actividades que dependen del río Mantaro.
 ### **ODS 3**: Salud y Bienestar
 
 **Objetivo general**: Garantizar una vida sana y promover el bienestar para todos en todas las edades.
