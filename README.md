@@ -91,18 +91,17 @@ Metales objetivo (fase curso): Plomo (Pb) y Arsénico (As) mediante kits colorim
 ### Justificacion:
 Escogimos el río Mantaro porque no podíamos mirar a otro lado mientras un recurso tan valioso sigue enfermándose. Es uno de los ríos más contaminados del país y, según estudios, contiene niveles de plomo y arsénico que superan por mucho los límites permitidos. Esta situación afecta directamente a las comunidades que dependen de él, provocando enfermedades, pérdida de cultivos y daños en los ecosistemas.
 
-Con este proyecto buscamos crear un sistema que permita detectar la presencia de metales pesados en el agua del río Mantaro y alertar a los pobladores sobre su estado. La idea es ofrecer una herramienta que brinde información clara y rápida sobre la calidad del agua, para que las personas puedan tomar precauciones, evitar enfermedades y proteger su salud. De esta forma, queremos contribuir a que las comunidades estén más informadas y preparadas frente a la contaminación del río.
+Con este proyecto buscamos crear un sistema que permita detectar la presencia de metales pesados en el agua del río Mantaro y alertar a los pobladores sobre su estado. La idea es ofrecer una herramienta que brinde información clara y rápida sobre la calidad del agua, para que las personas puedan tomar precauciones y evitar que la contaminación afecte su salud, la agricultura y la ganadería. De esta forma, queremos contribuir a que las comunidades estén más informadas y preparadas para proteger sus medios de vida y el entorno que las rodea
 ### Referencias:
 
-Ministerio del Ambiente. (2020). Informe nacional de la calidad del agua superficial en el Perú. Lima: MINAM. Recuperado de https://www.gob.pe/minam
+[1] Ministerio del Ambiente, Informe nacional de la calidad del agua superficial en el Perú. Lima: MINAM, 2020. [En línea]. Disponible en: https://www.gob.pe/minam
 
-World Health Organization. (2022). Guidelines for drinking-water quality: Fourth edition incorporating the first and second addenda. Geneva: WHO. https://www.who.int/publications/i/item/9789240045064
+[2] World Health Organization, Guidelines for Drinking-water Quality: Fourth Edition Incorporating the First and Second Addenda. Geneva: WHO, 2022. [En línea]. Disponible en: https://www.who.int/publications/i/item/9789240045064
 
-Muqui. (2021). La contaminación ambiental de la cuenca del río Coata y los desafíos de la mesa de diálogo en Puno. https://muqui.org/la-contaminacion-ambiental-de-la-cuenca-del-rio-coata-y-los-desafios-de-la-mesa-de-dialogo-en-puno/
+[3] Muqui, “La contaminación ambiental de la cuenca del río Coata y los desafíos de la mesa de diálogo en Puno,” 2021. [En línea]. Disponible en: https://muqui.org/la-contaminacion-ambiental-de-la-cuenca-del-rio-coata-y-los-desafios-de-la-mesa-de-dialogo-en-puno/
 
-Organismo de Evaluación y Fiscalización Ambiental (OEFA). (2021). Informe técnico sobre contaminantes frecuentes en la cuenca del río Coata. https://repositorio.oefa.gob.pe/items/66a28285-1f97-4c5a-a98b-05fafa1010ea
+[4] Organismo de Evaluación y Fiscalización Ambiental (OEFA), Informe técnico sobre contaminantes frecuentes en la cuenca del río Coata, 2021. [En línea]. Disponible en: https://repositorio.oefa.gob.pe/items/66a28285-1f97-4c5a-a98b-05fafa1010ea
 
-Vallejo-Cárdenas, J., & Pérez-Llanos, A. (2022). Variación de la calidad del agua del río Coata según el ICA-Perú por fuentes contaminantes. Revista de la Facultad de Ciencias de la Salud, Universidad Nacional Federico Villarreal, 19(2), 103-112. https://revistas.unfv.edu.pe/RCV/article/view/1189)
-
+[5] J. Vallejo-Cárdenas y A. Pérez-Llanos, “Variación de la calidad del agua del río Coata según el ICA-Perú por fuentes contaminantes,” Revista de la Facultad de Ciencias de la Salud, Universidad Nacional Federico Villarreal, vol. 19, no. 2, pp. 103–112, 2022. [En línea]. Disponible en: https://revistas.unfv.edu.pe/RCV/article/view/1189
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva a cumplir nuestro objetivo y en qué ODS queremos enfocar nuestro trabajo durante el desarrollo del curso.
