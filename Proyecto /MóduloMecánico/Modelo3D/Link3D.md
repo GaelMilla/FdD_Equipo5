@@ -1,0 +1,7 @@
+## Enlace a nuestro Modelado 3d
+
+Pueden encontrar nuestro modelado 3D en el siguiente enlace de Onshape.
+
+👉 [Abrir modelo en Onshape](https://cad.onshape.com/documents/2368de22a2ff19797781ffe9/w/f210a0975f7b877d1a7828df/e/6acc251336fc2209003ac0d1?renderMode=0&uiState=6915ee19135220b4c899b1e4)
+
+👉 [Ver en Google Drive](https://drive.google.com/file/d/12YpqmiEPYZybJJylyULUvnnG1Q2hW_8t/view?usp=drive_link)
