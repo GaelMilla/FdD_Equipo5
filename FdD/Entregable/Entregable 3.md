@@ -19,8 +19,8 @@
 
 ## Planos 2D
 
-![6](https://github.dev/GaelMilla/FdD_Equipo5/FdD/Imagenes/planos_2D/Cover.jpeg)
+![6]([https://github.dev/GaelMilla/FdD_Equipo5/FdD/Imagenes/planos_2D/Cover.jpeg](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/Box.png))
 
-![7](https://github.dev/GaelMilla/FdD_Equipo5/FdD/Imagenes/planos_2D/Box.jpeg)
+![7]([https://github.dev/GaelMilla/FdD_Equipo5/FdD/Imagenes/planos_2D/Box.jpeg](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/Cover.png))
 
-![7](https://github.dev/GaelMilla/FdD_Equipo5/FdD/Imagenes/planos_2D/4_patas.jpeg)
+![7]([https://github.dev/GaelMilla/FdD_Equipo5/FdD/Imagenes/planos_2D/4_patas.jpeg](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/4%20patas.png))
