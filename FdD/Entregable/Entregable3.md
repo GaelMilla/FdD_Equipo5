@@ -23,4 +23,4 @@
 
 ![7](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/Box.png)
 
-![8](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/Cover.png)
+![8](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/4%20patas.png)
