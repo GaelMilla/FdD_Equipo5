@@ -18,7 +18,7 @@
 | E | ![][image18]fg.1![][image19] ![][image20]fig.3 ![][image21]fg.5![][image22] ![][image23] |
 | LINK: | [https://www.sciencedirect.com/science/article/pii/S2666016424003724\#sec4](https://www.sciencedirect.com/science/article/pii/S2666016424003724#sec4) |
 
-**2\. PRODUCTOS COMERCIALES**   
+# **2\. PRODUCTOS COMERCIALES**   
 SENSORES multiple con microprocesador:
 
 1. ### **HI9829-11042:** Medidor multiparamétrico pH/ORP, CE, OD, turbidez, c/GPS, sonda c/4 metros cable, 230, COSTO: $5,370.00 USD
@@ -26,7 +26,7 @@ SENSORES multiple con microprocesador:
    El **HI9829** es un medidor portátil impermeable para calidad del agua que mide hasta 14 parámetros, como pH, ORP, conductividad, oxígeno disuelto, turbidez, amonio, cloruro, nitrato y temperatura. Su sonda multiparamétrica transmite lecturas digitales y puede registrar datos incluso desconectada del medidor. Incluye opción de **GPS** para ubicar mediciones, es personalizable, fácil de usar y viene en un estuche rígido con accesorios. Además, sus sensores individuales son reemplazables en campo e identificados por color, lo que lo hace ideal para trabajos ambientales, de campo y de laboratorio.  
    Link:[https://hannainst.com.pe/productos/linea/acuacultura/medidor-multiparametrico-ph-orp-ce-od-turbidez-c-gps-sonda-c-4-metros-cable-230v/](https://hannainst.com.pe/productos/linea/acuacultura/medidor-multiparametrico-ph-orp-ce-od-turbidez-c-gps-sonda-c-4-metros-cable-230v/)
 
-2. # Medidor multiparamétrico ProQuatro: El medidor multiparamétrico portátil ProQuatro mide diversas combinaciones de oxígeno disuelto, conductividad, conductancia específica, salinidad, resistividad, sólidos disueltos totales (TDS), pH, ORP, combinación pH/ORP y temperatura. 
+2. ### Medidor multiparamétrico ProQuatro: El medidor multiparamétrico portátil ProQuatro mide diversas combinaciones de oxígeno disuelto, conductividad, conductancia específica, salinidad, resistividad, sólidos disueltos totales (TDS), pH, ORP, combinación pH/ORP y temperatura. 
 
               costo :**USD 8,770**   
          El **ProQuatro** es un medidor multiparamétrico portátil y de laboratorio que mide oxígeno disuelto, conductividad, salinidad, TDS, pH, ORP, amonio, nitrato, cloruro y temperatura. Permite combinar hasta **4 sensores en un cable**, cuenta con diseño   
