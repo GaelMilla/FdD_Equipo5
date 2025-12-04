@@ -17,10 +17,15 @@
 
 ![5](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/Boceto/new_boceto3.jpeg)
 
-## Planos 2D
+# Planos 2D
 
 ![6](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/Cover.png)
 
 ![7](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/Box.png)
 
 ![8](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/planos%202D/4%20patas.png)
+
+# Esquemático
+
+![9](https://github.com/GaelMilla/FdD_Equipo5/blob/main/Proyecto%20/ModuloElectronico/esquematico_electronico.png)
+
