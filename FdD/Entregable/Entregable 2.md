@@ -1,4 +1,4 @@
-1. **ARTÍCULOS**
+# 1. **ARTÍCULOS**
 
 | TÍTULO:  | Evaluación de los índices de riesgo a la salud humana por contaminación por metales en las aguas superficiales de la subcuenca del río Negro, Áncash |
 | :---- | :---- |
@@ -164,7 +164,7 @@ link:[https://www.aquaticed.com/products/ysi-proquatro?variant=39383922442430](h
 
 
 
-**1\. Lista de Exigencias** 
+# **Lista de Exigencias** 
 | LISTA DE EXIGENCIAS |  |  | Páginas: 10 
 | ----- | :---: | ----- | ----- |
 |  |  |  | **Edición: Rev. 1** |
@@ -194,7 +194,7 @@ link:[https://www.aquaticed.com/products/ysi-proquatro?variant=39383922442430](h
 |   | E | **Costos:** En relación a las horas de trabajo presentado más abajo en el diagrama de Gantt podemos estimar un costo de diseño. Considerando un costo horario de diseño de S/. 60 distribuidos entre los integrantes del grupo por las 138 horas de trabajo, obtenemos el total de S/. 8280 de costos de diseño. Para costos de materiales se estimara que no exceda los 700 soles para mantener la máquina a un costo de venta accesible . | R.T |
 | **/09/25** | E | **Plazos:** El proyecto empezará el miércoles 2 de septiembre y  espera su finalización el miércoles 9 de diciembre a las 8 a.m. con un total aproximado de 138 horas de trabajo. Se elaboró un diagrama de Gantt para observar el flujo de trabajo, marcando las sustentaciones y entregas principales con hitos marcados (Véase *Plan de Trabajo).* | R.T |
 
- # Caja negra
+# Caja negra
 ![](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/caja_negra.png)
 # Esquema de funciones
 ![](https://github.com/GaelMilla/FdD_Equipo5/blob/main/FdD/Imagenes/esquema_funciones.png)
